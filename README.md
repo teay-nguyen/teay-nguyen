@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
@@ -29,7 +27,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/teay-nguyen/teay-nguyen/output/snake.svg" alt="Snake animation" />
 
 ###
